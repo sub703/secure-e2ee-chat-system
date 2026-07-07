@@ -111,13 +111,15 @@ python client.py
 
 ---
 
-# 📄 Technical Documentation
+## 📄 Technical Documentation
 
-A detailed 51-page technical report explaining the architecture, implementation, cryptographic concepts, communication flow, screenshots, and source code.
+A comprehensive technical report covering the system architecture, hybrid encryption workflow, implementation details, cryptographic concepts, testing, screenshots, and future enhancements.
 
-📥 **Download the documentation here:**
+📥 **Download the full documentation here:**
 
-[Technical_Documentation.pdf](Technical_Documentation.pdf)
+[📄 Secure_E2EE_Chat_System_Technical_Documentation.pdf](Secure_E2EE_Chat_System_Technical_Documentation.pdf)
+
+---
 
 ## Future Improvements
 
