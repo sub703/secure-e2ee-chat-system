@@ -111,6 +111,14 @@ python client.py
 
 ---
 
+# 📄 Technical Documentation
+
+A detailed 51-page technical report explaining the architecture, implementation, cryptographic concepts, communication flow, screenshots, and source code.
+
+📥 **Download the documentation here:**
+
+[Technical_Documentation.pdf](Technical_Documentation.pdf)
+
 ## Future Improvements
 
 - File sharing
