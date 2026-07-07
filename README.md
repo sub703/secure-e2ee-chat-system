@@ -121,6 +121,14 @@ A comprehensive technical report covering the system architecture, hybrid encryp
 
 ---
 
+## 🏗️ Architecture
+
+The application follows a client-server architecture in which the TCP server functions solely as a blind relay. Clients exchange RSA-2048 public keys through the server and encrypt all messages locally using AES-128-CBC before transmission. The server only forwards encrypted traffic and never decrypts or stores message contents.
+
+![System Architecture](architecture.png)
+
+---
+
 ## Future Improvements
 
 - File sharing
