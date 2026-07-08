@@ -117,7 +117,7 @@ A comprehensive technical report covering the system architecture, hybrid encryp
 
 📥 **Download the full documentation here:**
 
-[Technical_Documentation.pdf](Secure_E2EE_Chat_System_Technical_Documentation.pdf)
+[Secure_E2EE_Chat_System_Technical_Documentation.pdf](Secure_E2EE_Chat_System_Technical_Documentation.pdf)
 
 ---
 
