@@ -141,5 +141,10 @@ The application follows a client-server architecture in which the TCP server fun
 
 ## Author
 
-**sub703**
+**[@sub703](https://github.com)**
+
+If you have questions about the codebase, architecture choices, or want to collaborate on similar engineering workflows, feel free to get in touch:
+* **GitHub Profile:** [@sub703](https://github.com)
+* **Inquiries:** Open an issue or drop a discussion thread directly within this repository!
+
 
