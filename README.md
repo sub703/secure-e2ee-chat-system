@@ -141,8 +141,5 @@ The application follows a client-server architecture in which the TCP server fun
 
 ## Author
 
-**Subrata Kumar Dey**
-
-B.Tech. Computer Science & Engineering (Cyber Security & Privacy)  
-DIT University
+**sub703**
 
